@@ -1,0 +1,28 @@
+body {
+    background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#conteudo {
+    background-color: white;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 2%;
+}
+#cabecalho {
+    background-color: white;
+    border: whitesmoke 1px solid;
+    border-radius: 5px;
+    padding-left: 50px;
+    margin-bottom: 30px;
+    box-shadow: whitesmoke 1px 1px 2px;
+}
+
+.imagem{
+    height: 200px;
+    
+}
+
+footer{
+    background-color: gray;
+}
